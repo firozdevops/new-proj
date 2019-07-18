@@ -1,0 +1,3 @@
+ Learning to program is hard. It's difficult to know where to start, but it's even more challenging to know what to do after you've learned the basics. Jumping into a developer bootcamp for three months isn't enough.
+
+The following stories from successful developers (some of them self-taught) show you what it takes to join their ranks, highlighting how the authors learned programming and landed their first job, as well as chronicling people's moves from novice professional developer to exceptional software engineer.
